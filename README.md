@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Give+You+Glory&size=65&pause=100000&color=A78BFA&center=true&vCenter=true&width=700&height=120&speed=1&lines=Hi!+I'm+sony" alt="name banner" />
+  <img src="banner.svg" alt="Hi! I'm Jsaac">
 </p>
-
 <h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Art;Unity+%2F+Unreal+%2F+Maya;HLSL+%2F+Shader+Graph+%2F+VFX+Graph" alt="Typing SVG" />
