@@ -7,7 +7,7 @@
 </p>
 
 ---
-I'm a 3d & vfx artist who specialize in producing games with stunning creative direction. My field of focus ranges from environment art & game feel that enhances the player experience. I dabble in all things art! may it be curating galleries or illustrating children's books. i love being in all parts of the creative process, as my drive would always be one big curiosity.
+I'm a 3d & VFX artist who specialize in producing games with stunning creative direction. My field of focus ranges from environment art & game feel that enhances the player experience. I dabble in all things art! may it be curating galleries or illustrating children's books. i love being in all parts of the creative process, as my drive would always be one big curiosity.
 
 
 <p align="center">
@@ -72,9 +72,9 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
   </tr>
   <tr>
     <td width="33%" align="center">
-      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+7" width="100%"/><br/>
-      <b>[Effect Name 7]</b><br/>
-      <sub>GLSL</sub>
+      <img src="https://github.com/user-attachments/assets/f0377567-0c7f-4651-8131-6a64518cac69"/><br/>
+      <b>Uppercut VFX</b><br/>
+      <sub>Unreal Engine • Niagara </sub>
     </td>
     <td width="33%" align="center"></td>
     <td width="33%" align="center"></td>
