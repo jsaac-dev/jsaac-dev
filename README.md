@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&size=20&pause=1000&color=006B3C&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Graph;Unity+%2F+Unreal+%2F+Maya;HLSL+%2F+Substance+Designer+%2F+Procedural+Generation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&size=20&pause=1000&color=087830&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Graph;Unity+%2F+Unreal+%2F+Maya;HLSL+%2F+Substance+Designer+%2F+Procedural+Generation" alt="Typing SVG" />
 </p>
 
 ---
