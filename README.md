@@ -49,7 +49,7 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
     </td>
     <td width="33%" align="center">
       <img src="https://github.com/user-attachments/assets/2cdaf407-8385-41b1-aa1c-d968d608bda3" width="100%"/><br/>
-      <b>[Optimized Godrays]</b><br/>
+      <b>Optimized Godrays</b><br/>
       <sub>Unity • Shader Graph</sub>
     </td>
   </tr>
