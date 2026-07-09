@@ -13,7 +13,7 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
 <p align="center">
   <a href="https://github.com/[your-username]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://[your-portfolio-site]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://[your-carrd-site].carrd.co"><img src="https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=carrd&logoColor=white" /></a>
   <a href="https://artstation.com/[your-artstation]"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
   <a href="https://bsky.app/profile/[your-handle]"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
 </p>
