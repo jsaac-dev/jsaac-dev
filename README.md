@@ -1,22 +1,28 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Splash&size=65&pause=100000&color=A78BFA&center=true&vCenter=true&width=700&height=120&speed=1&lines=Hi%2C+I'm+Jsaac!" alt="name banner" />
 </p>
-
 <h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Art;Unity+%2F+Unreal+%2F+Maya;HLSL+%2F+Shader+Graph+%2F+VFX+Graph" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Graph;Unity+%2F+Unreal+%2F+Maya;HLSL+%2F+Substance+Designer+%2F+VFX+Graph" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🐦‍⬛ Who I am
 
-I'm a technical artist who loves bending shaders and particle systems into things that shouldn't be possible. This profile is a living gallery of my shader graph and VFX experiments — click into any project below for source files and breakdowns.
+I'm a 3d & vfx artist who specialize in producing games with stunning creative direction. My field of focus ranges from environment art & game feel that enhances the player experience. I dabble in all things art! may it be curating galleries or illustrating children's books. i love being in all parts of the creative process, as my drive would always be one big curiosity.
+
+<p align="center">
+  <a href="https://github.com/[your-username]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://[your-portfolio-site]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://artstation.com/[your-artstation]"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/[your-handle]"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+</p>
+---
 
 - 🔭 Currently working on: **Into The Abyss**
 - 🌱 Currently learning: **OpenCV, Stylized VFX, Art Direction**
-- 💬 Ask me about: shaders, VFX, pipelines, texture mapping
-- 📫 Reach me: see links below
 
 ---
 
@@ -78,7 +84,7 @@ I'm a technical artist who loves bending shaders and particle systems into thing
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -93,16 +99,4 @@ I'm a technical artist who loves bending shaders and particle systems into thing
 
 ---
 
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/[your-username]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://[your-portfolio-site]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-  <a href="https://artstation.com/[your-artstation]"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
-  <a href="https://bsky.app/profile/[your-handle]"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><i>⭐ Thanks for stopping by — more shader chaos coming soon.</i></p>
+<p align="center"><i>I enjoy observing things every day. I examine entire rooms when I enter and I collect a lot of visual resources -Kim Jung Gi.</i></p>
