@@ -13,8 +13,8 @@
 
 I'm a technical artist who loves bending shaders and particle systems into things that shouldn't be possible. This profile is a living gallery of my shader graph and VFX experiments — click into any project below for source files and breakdowns.
 
-- 🔭 Currently working on: **[Into The Abyss]**
-- 🌱 Currently learning: **[OpenCV, Stylized VFX, Art Direction]**
+- 🔭 Currently working on: **Into The Abyss**
+- 🌱 Currently learning: **OpenCV, Stylized VFX, Art Direction**
 - 💬 Ask me about: shaders, VFX, pipelines, texture mapping
 - 📫 Reach me: see links below
 
