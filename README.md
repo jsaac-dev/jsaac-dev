@@ -61,12 +61,12 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
     </td>
     <td width="33%" align="center">
       <img src="https://github.com/user-attachments/assets/40eb1db4-1220-4987-90a5-f3427169ac31"/><br/>
-      <b>[Terrain Holomap]</b><br/>
+      <b>Terrain Holomap</b><br/>
       <sub>Unity • Shader Graph</sub>
     </td>
     <td width="33%" align="center">
       <img src="https://github.com/user-attachments/assets/3b7fd7ca-557d-4dfc-9420-8125f4c0380b" width="100%"/><br/>
-      <b>[Rejuvination VFX]</b><br/>
+      <b>Rejuvination VFX</b><br/>
       <sub>Unity • VFX Graph</sub>
     </td>
   </tr>
