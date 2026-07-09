@@ -65,7 +65,7 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
       <sub>Unity • Shader Graph</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/c85bd850-a9c1-4d8f-b1da-c59917683ff9" width="100%"/><br/>
+      <img src="https://github.com/user-attachments/assets/3b7fd7ca-557d-4dfc-9420-8125f4c0380b" width="100%"/><br/>
       <b>[Rejuvination VFX]</b><br/>
       <sub>Unity • VFX Graph</sub>
     </td>
