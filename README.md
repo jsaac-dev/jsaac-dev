@@ -11,7 +11,7 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/[https://www.linkedin.com/in/john-isaac-buenaflor-9baa012ba/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://[your-carrd-site].carrd.co"><img src="https://img.shields.io/badge/Carrd-319177?style=for-the-badge&logo=carrd&logoColor=white" /></a>
   <a href="https://artstation.com/[your-artstation]"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
   <a href="https://bsky.app/profile/[your-handle]"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
