@@ -7,7 +7,7 @@
 </p>
 
 ---
-I'm a 3D Environment & VFX artist who specialize in producing games with stunning creative direction. My field of focus ranges from environment art, game feel that enhances the player experience & pipelines the streamline the process and art development budget. I dabble in all things art! may it be curating galleries or illustrating children's books. I love being in all parts of the creative process, as my drive would always be one big curiosity.
+I'm a 3D Environment & VFX artist who specialize in producing games with stunning creative direction. My field of focus ranges from environment art, game feel that enhances the player experience & pipelines the streamline the process and art development budget. I dabble in all things art! may it be curating galleries or illustrating children's books. I love being in all parts of the creative process, as my drive will always be one big curiosity.
 
 
 <p align="center">
