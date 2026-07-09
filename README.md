@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Splash&size=65&pause=100000&color=A78BFA&center=true&vCenter=true&width=700&height=120&speed=1&lines=Hi%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B" alt="name banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Splash&size=65&pause=100000&color=A78BFA&center=true&vCenter=true&width=700&height=120&speed=1&lines=Hi%2C+I'm+%5BJsaac" alt="name banner" />
 </p>
 
 <h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
