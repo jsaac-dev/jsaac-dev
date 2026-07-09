@@ -8,9 +8,8 @@
 
 ---
 
-### 🐦‍⬛ Who I am
-
 I'm a 3d & vfx artist who specialize in producing games with stunning creative direction. My field of focus ranges from environment art & game feel that enhances the player experience. I dabble in all things art! may it be curating galleries or illustrating children's books. i love being in all parts of the creative process, as my drive would always be one big curiosity.
+
 
 <p align="center">
   <a href="https://github.com/[your-username]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
