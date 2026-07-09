@@ -1,16 +1,105 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm [Jsaac] 👋</h1>
+<h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Art;Unity+%2F+Unreal+%2F+Houdini;HLSL+%2F+Shader+Graph+%2F+VFX+Graph" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+I'm a technical artist who loves bending shaders and particle systems into things that shouldn't be possible. This profile is a living gallery of my shader graph and VFX experiments — click into any project below for source files and breakdowns.
+
+- 🔭 Currently working on: **[Into The Abyss]**
+- 🌱 Currently learning: **[OpenCV, Stylized VFX, Art Direction]**
+- 💬 Ask me about: shaders, VFX, real-time rendering
+- 📫 Reach me: see links below
+
+---
+
+### 🎨 Shader & VFX Gallery
 
 <!--
-**jsaac-dev/jsaac-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  HOSTING TIP: GitHub doesn't let you upload files directly into a README.
+  Easiest free option: open a new Issue in this profile repo, drag-and-drop
+  your GIF into the issue text box, then copy the generated
+  https://github.com/user-attachments/... URL it creates — paste that URL
+  below and delete the issue if you like, the image link stays alive.
 -->
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+1" width="100%"/><br/>
+      <b>[Effect Name 1]</b><br/>
+      <sub>Unity • Shader Graph</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+2" width="100%"/><br/>
+      <b>[Effect Name 2]</b><br/>
+      <sub>Unreal • Niagara</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+3" width="100%"/><br/>
+      <b>[Effect Name 3]</b><br/>
+      <sub>HLSL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+4" width="100%"/><br/>
+      <b>[Effect Name 4]</b><br/>
+      <sub>Houdini VEX</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+5" width="100%"/><br/>
+      <b>[Effect Name 5]</b><br/>
+      <sub>Unity VFX Graph</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+6" width="100%"/><br/>
+      <b>[Effect Name 6]</b><br/>
+      <sub>Unreal Material Editor</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+7" width="100%"/><br/>
+      <b>[Effect Name 7]</b><br/>
+      <sub>GLSL</sub>
+    </td>
+    <td width="33%" align="center"></td>
+    <td width="33%" align="center"></td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/[your-username]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://[your-portfolio-site]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://artstation.com/[your-artstation]"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/[your-handle]"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>⭐ Thanks for stopping by — more shader chaos coming soon.</i></p>
