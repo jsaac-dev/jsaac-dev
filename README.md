@@ -43,7 +43,7 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
 </td>
 <td width="33%" align="center">
   <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+2" width="100%"/><br/>
-  <b>[PCG Tube Corals]</b><br/>
+  <b>**PCG Tube Corals**</b><br/>
   <sub>Blender • Geometry Nodes</sub>
 </td>
   </tr>
