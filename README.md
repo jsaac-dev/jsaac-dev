@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I'm%20%5BYour%20Name%5D%20%F0%9F%91%8B&fontSize=45&fontColor=A78BFA&fontAlignY=45&fontFamily=Give+You+Glory&height=140" alt="name banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Give+You+Glory&size=45&pause=100000&color=A78BFA&center=true&vCenter=true&width=600&height=90&lines=Hi%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B" alt="name banner" />
 </p>
 
 <h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
