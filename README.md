@@ -36,18 +36,16 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/db6236d3-6d5c-4419-98bf-20eb28fdfe73" width="100%"/><br/>
-    <td width="33%" align="center">
-      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+2" width="100%"/><br/>
-      <b>[PCG Tube Corals]</b><br/>
-      <sub>Blender • Geometry Nodes</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+3" width="100%"/><br/>
-      <b>[Effect Name 3]</b><br/>
-      <sub>HLSL</sub>
-    </td>
+  <td width="33%" align="center">
+  <img src="https://github.com/user-attachments/assets/db6236d3-6d5c-4419-98bf-20eb28fdfe73" width="100%"/><br/>
+  <b>[Effect Name 1]</b><br/>
+  <sub>Unity • Shader Graph</sub>
+</td>
+<td width="33%" align="center">
+  <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+2" width="100%"/><br/>
+  <b>[PCG Tube Corals]</b><br/>
+  <sub>Blender • Geometry Nodes</sub>
+</td>
   </tr>
   <tr>
     <td width="33%" align="center">
