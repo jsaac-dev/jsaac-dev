@@ -55,9 +55,9 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
   </tr>
   <tr>
     <td width="33%" align="center">
-      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+4" width="100%"/><br/>
-      <b>[Effect Name 4]</b><br/>
-      <sub>Houdini VEX</sub>
+      <img src="https://github.com/user-attachments/assets/581d1528-4091-432e-bf04-375570686b83"/><br/>
+      <b>Fully Customizable Grass Shader</b><br/>
+      <sub>Unity • Shader Grap</sub>
     </td>
     <td width="33%" align="center">
       <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+5" width="100%"/><br/>
