@@ -1,8 +1,15 @@
-<h1 align="center">Hi, I'm [Jsaac] 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I'm%20%5BYour%20Name%5D%20%F0%9F%91%8B&fontSize=45&fontColor=A78BFA&fontAlignY=45&fontFamily=Give+You+Glory&height=140" alt="name banner" />
+</p>
+<h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Give+You+Glory&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Art;Unity+%2F+Unreal+%2F+Maya;HLSL+%2F+Shader+Graph+%2F+VFX+Graph" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Art;Unity+%2F+Unreal+%2F+Houdini;HLSL+%2F+Shader+Graph+%2F+VFX+Graph" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Art;Unity+%2F+Unreal+%2F+Substance+Designer;HLSL+%2F+Shader+Graph+%2F+VFX+Graph" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +20,7 @@ I'm a technical artist who loves bending shaders and particle systems into thing
 
 - 🔭 Currently working on: **[Into The Abyss]**
 - 🌱 Currently learning: **[OpenCV, Stylized VFX, Art Direction]**
-- 💬 Ask me about: shaders, VFX, real-time rendering
+- 💬 Ask me about: shaders, VFX, pipelines, texture mapping
 - 📫 Reach me: see links below
 
 ---
@@ -81,8 +88,9 @@ I'm a technical artist who loves bending shaders and particle systems into thing
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk_Maya-0696D7?style=for-the-badge&logo=autodeskmaya&logoColor=white" />
+  <img src="https://img.shields.io/badge/Substance_Designer-CC2229?style=for-the-badge&logo=adobesubstancedesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
