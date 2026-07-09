@@ -65,9 +65,9 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
       <sub>Unity • Shader Graph</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+6" width="100%"/><br/>
-      <b>[Effect Name 6]</b><br/>
-      <sub>Unreal Material Editor</sub>
+      <img src="https://github.com/user-attachments/assets/c85bd850-a9c1-4d8f-b1da-c59917683ff9" width="100%"/><br/>
+      <b>[Rejuvination VFX]</b><br/>
+      <sub>Unity • VFX Graph</sub>
     </td>
   </tr>
   <tr>
