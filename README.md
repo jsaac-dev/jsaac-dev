@@ -40,12 +40,12 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
     <td width="33%" align="center">
       <img src="https://github.com/user-attachments/assets/db6236d3-6d5c-4419-98bf-20eb28fdfe73" width="100%"/><br/>
       <b>PCG Tube Sponge</b><br/>
-      <sub>Unity • Shader Graph</sub>
+      <sub>Blender • Geometry Nodes</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+2" width="100%"/><br/>
-      <b>PCG Tube Corals</b><br/>
-      <sub>Blender • Geometry Nodes</sub>
+      <img src="https://github.com/user-attachments/assets/c4be544d-bb2d-4f81-a6e0-b0cf92217419"/><br/>
+      <b>Fish Vertex Animations</b><br/>
+      <sub>Unity • Shader Graph</sub>
     </td>
     <td width="33%" align="center">
       <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+3" width="100%"/><br/>
