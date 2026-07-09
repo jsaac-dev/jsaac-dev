@@ -1,15 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I'm%20%5BYour%20Name%5D%20%F0%9F%91%8B&fontSize=45&fontColor=A78BFA&fontAlignY=45&fontFamily=Give+You+Glory&height=140" alt="name banner" />
 </p>
-<h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Give+You+Glory&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Art;Unity+%2F+Unreal+%2F+Maya;HLSL+%2F+Shader+Graph+%2F+VFX+Graph" alt="Typing SVG" />
-</p>
 
 <h3 align="center">Technical Artist crafting real-time shaders & VFX</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Art;Unity+%2F+Unreal+%2F+Substance+Designer;HLSL+%2F+Shader+Graph+%2F+VFX+Graph" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Real-time+VFX+%7C+Shader+Art;Unity+%2F+Unreal+%2F+Maya;HLSL+%2F+Shader+Graph+%2F+VFX+Graph" alt="Typing SVG" />
 </p>
 
 ---
