@@ -26,15 +26,6 @@ I'm a 3d & VFX artist who specialize in producing games with stunning creative d
 
 ### 🎨 Shader & VFX Gallery
 
-<!--
-  HOSTING TIP: GitHub doesn't let you upload files directly into a README.
-  Easiest free option: open a new Issue in this profile repo, drag-and-drop
-  your GIF into the issue text box, then copy the generated
-  https://github.com/user-attachments/... URL it creates — paste that URL
-  below and delete the issue if you like, the image link stays alive.
--->
-
-
 <table>
   <tr>
     <td width="33%" align="center">
