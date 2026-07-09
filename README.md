@@ -43,7 +43,7 @@ I'm a 3d & VFX artist who specialize in producing games with stunning creative d
       <sub>Blender • Geometry Nodes</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/c4be544d-bb2d-4f81-a6e0-b0cf92217419"/><br/>
+      <img src="https://github.com/user-attachments/assets/c4be544d-bb2d-4f81-a6e0-b0cf92217419" width="100%"/><br/>
       <b>Fish Vertex Animations</b><br/>
       <sub>Unity • Shader Graph</sub>
     </td>
@@ -55,12 +55,12 @@ I'm a 3d & VFX artist who specialize in producing games with stunning creative d
   </tr>
   <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/581d1528-4091-432e-bf04-375570686b83"/><br/>
+      <img src="https://github.com/user-attachments/assets/581d1528-4091-432e-bf04-375570686b83" width="100%"/><br/>
       <b>Fully Customizable Grass Shader</b><br/>
-      <sub>Unity • Shader Grap</sub>
+      <sub>Unity • Shader Graph</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/40eb1db4-1220-4987-90a5-f3427169ac31"/><br/>
+      <img src="https://github.com/user-attachments/assets/40eb1db4-1220-4987-90a5-f3427169ac31" width="100%"/><br/>
       <b>Terrain Holomap</b><br/>
       <sub>Unity • Shader Graph</sub>
     </td>
@@ -72,12 +72,20 @@ I'm a 3d & VFX artist who specialize in producing games with stunning creative d
   </tr>
   <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/f0377567-0c7f-4651-8131-6a64518cac69"/><br/>
+      <img src="https://github.com/user-attachments/assets/f0377567-0c7f-4651-8131-6a64518cac69" width="100%"/><br/>
       <b>Uppercut VFX</b><br/>
-      <sub>Unreal Engine • Niagara </sub>
+      <sub>Unreal Engine • Niagara</sub>
     </td>
-    <td width="33%" align="center"></td>
-    <td width="33%" align="center"></td>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+8" width="100%"/><br/>
+      <b>[Effect Name 8]</b><br/>
+      <sub>Substance Designer</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+9" width="100%"/><br/>
+      <b>[Effect Name 9]</b><br/>
+      <sub>Blender • Shader Nodes</sub>
+    </td>
   </tr>
 </table>
 
