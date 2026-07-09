@@ -77,9 +77,9 @@ I'm a 3d & VFX artist who specialize in producing games with stunning creative d
       <sub>Unreal Engine • Niagara</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+8" width="100%"/><br/>
-      <b>[Effect Name 8]</b><br/>
-      <sub>Substance Designer</sub>
+      <img src="https://github.com/user-attachments/assets/be40b397-f1f1-4a4d-bf47-000fbd828b97"/><br/>
+      <b>[Stylized Sparks]</b><br/>
+      <sub>Unreal Engine • Niagara</sub>
     </td>
     <td width="33%" align="center">
       <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+9" width="100%"/><br/>
