@@ -60,7 +60,7 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
       <sub>Unity • Shader Grap</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+5" width="100%"/><br/>
+      <img src="https://github.com/user-attachments/assets/40eb1db4-1220-4987-90a5-f3427169ac31"/><br/>
       <b>[Effect Name 5]</b><br/>
       <sub>Unity VFX Graph</sub>
     </td>
