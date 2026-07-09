@@ -78,13 +78,13 @@ I'm a 3d & VFX artist who specialize in producing games with stunning creative d
     </td>
     <td width="33%" align="center">
       <img src="https://github.com/user-attachments/assets/be40b397-f1f1-4a4d-bf47-000fbd828b97"/><br/>
-      <b>[Stylized Sparks]</b><br/>
+      <b>Stylized Sparks</b><br/>
       <sub>Unreal Engine • Niagara</sub>
     </td>
     <td width="33%" align="center">
-      <img src="https://placehold.co/400x225/1a1a2e/A78BFA?text=Shader+GIF+9" width="100%"/><br/>
-      <b>[Effect Name 9]</b><br/>
-      <sub>Blender • Shader Nodes</sub>
+      <img src="https://github.com/user-attachments/assets/3eb91798-dd49-499e-9eff-f12f5b186c0d" width="100%"/><br/>
+      <b>Customizable Trimsheets</b><br/>
+      <sub>Substance Designer</sub>
     </td>
   </tr>
 </table>
