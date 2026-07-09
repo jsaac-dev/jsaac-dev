@@ -89,7 +89,7 @@ I'm a 3d & vfx artist who specialize in producing games with stunning creative d
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Autodesk_Maya-0696D7?style=for-the-badge&logo=autodeskmaya&logoColor=white" />
   <img src="https://img.shields.io/badge/Substance_Designer-228B22?style=for-the-badge&logo=adobesubstancedesigner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-002387?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
